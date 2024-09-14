@@ -1,0 +1,11 @@
+
+# Data
+*.pkl 
+*.pt
+*.csv
+*.json
+*.mat
+*.nwb
+*.yaml
+Datasets/*
+
